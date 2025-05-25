@@ -1,5 +1,0 @@
-// config.js
-window.SOUNDXCAPE_CONFIG = {
-    API_KEY: "YOUR_ACTUAL_GOOGLE_GEMINI_API_KEY"
-  };
-  
