@@ -1,0 +1,9 @@
+{
+  "name": "soundXcape",
+  "description": "soundXcape: Captura, Organiza y Explora Tu Mundo Auditivo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
